@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lcentorame
+- 👋 Hi, I’m @luanacentorame
 - 👀 I’m interested in drones and agriculture
 - 🌱 I’m currently learning data science 
 - 😄 Pronouns: she/her
